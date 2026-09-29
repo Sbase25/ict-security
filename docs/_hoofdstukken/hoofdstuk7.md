@@ -7,9 +7,9 @@ redirect_from:
   - /h7
 ---
 ## Oefeningen
-* [md5test.txt](oefeningen/md5test.txt?raw=true) 
-* [md5woordenlijst.txt](oefeningen/md5woordenlijst.txt?raw=true) 
-* [Kerberos](oefeningen/kerberos/index.html)
+* [md5test.txt]({{ '/oefeningen/md5test.txt?raw=true' | relative_url }})
+* [md5woordenlijst.txt]({{ '/oefeningen/md5woordenlijst.txt?raw=true' | relative_url }})
+* [Kerberos]({{ '/oefeningen/kerberos/index.html' | relative_url }})
 
 # Hashwaarden
 md5test:\

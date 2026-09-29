@@ -7,7 +7,7 @@ redirect_from:
   - /h6
 ---
 ## Oefeningen
-* [Netwerkverkeer](oefeningen/netwerkverkeer.zip?raw=true)
+* [Netwerkverkeer]({{ '/oefeningen/netwerkverkeer.zip?raw=true' | relative_url }})
 
 ## Tools
 * [Microsoft Security Compliance Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319)

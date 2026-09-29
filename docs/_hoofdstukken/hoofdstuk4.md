@@ -7,8 +7,8 @@ redirect_from:
   - /h4
 ---
 ## Oefeningen
-* [Bing](oefeningen/bing/index.html)
-* [PayPal](oefeningen/paypal.zip?raw=true)
+* [Bing]({{ '/oefeningen/bing/index.html' | relative_url }})
+* [PayPal]({{ '/oefeningen/paypal.zip?raw=true' | relative_url }})
 
 ## Tools
 * [Real domain name](https://chrome.google.com/webstore/detail/real-domain-name/lhbkkikjboiebjeghokpefafaahnfoff)
