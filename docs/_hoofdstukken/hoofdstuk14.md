@@ -1,7 +1,7 @@
 ---
 title: Hoofdstuk 14
 hoofdstuk: 14
-permalink: "hoofdstuk14"
+permalink: /hoofdstuk14/
 layout: default
 redirect_from:
   - /h14
