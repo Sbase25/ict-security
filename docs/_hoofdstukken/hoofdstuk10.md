@@ -1,13 +1,13 @@
 ---
 title: Hoofdstuk 10
 hoofdstuk: 10
-permalink: "hoofdstuk10"
+permalink: /hoofdstuk10/
 layout: default
 redirect_from:
   - /h10
 ---
 ## Oefeningen
-* [website.zip](oefeningen/website.zip?raw=true) 
+* [website.zip]({{ '/oefeningen/website.zip?raw=true' | relative_url }})
 
 ## Tools
 * [FileZilla Client](https://filezilla-project.org/download.php)

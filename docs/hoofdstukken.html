@@ -6,10 +6,10 @@ title: Hoofstukken
 <nav>
     <ul>
         {% assign sorted = site.hoofdstukken | sort: 'hoofdstuk'%}
-        {% for hoofdstukken in sorted %}
+        {% for hoofdstuk in sorted %}
         <li>
-            <a href="{{ hoofdstukken.url }}" {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
-                {{ hoofdstukken.title }}
+            <a href="{{ hoofdstuk.url | relative_url }}">
+                {{ hoofdstuk.title }}
             </a>
         </li>
         {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Oude druk
 hoofdstuk: 17
-permalink: "oudedruk"
+permalink: /oudedruk/
 layout: default
 ---
 

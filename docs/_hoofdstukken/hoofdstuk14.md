@@ -1,13 +1,13 @@
 ---
 title: Hoofdstuk 14
 hoofdstuk: 14
-permalink: "hoofdstuk14"
+permalink: /hoofdstuk14/
 layout: default
 redirect_from:
   - /h14
 ---
 ## Oefeningen
-* [USB Disk.zip](oefeningen/USB Disk.zip?raw=true) 
+* [USB Disk.zip]({{ '/oefeningen/USB%20Disk.zip?raw=true' | relative_url }})
 
 ## Tools
 * [Eraser](https://eraser.heidi.ie/download/)
