@@ -11,8 +11,8 @@ redirect_from:
 
 ## Tools
 * [Eraser](https://eraser.heidi.ie/download/)
-* [FTK Imager](https://accessdata.com/product-download) \
-Let op! Om FTK Imager te kunnen downloaden moet je je eerst registreren op de website. Je krijgt de download link dan toegestuurd.
+* [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) \
+Volg de actuele downloadinstructies op de website van Exterro.
 
 ## Werkbladen
 * [Bestanden schonen](https://drive.google.com/file/d/1lhCE9bvp-0RyNY4xJVWvwo0fXJdSktcQ/view?usp=sharing)

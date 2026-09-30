@@ -7,10 +7,11 @@ redirect_from:
   - /h13
 ---
 ## Tools
-* [AndroidTamer4.ova](https://androidtamer.com/tamer4-release)
+* [AndroidTamer4.ova (downloadpagina-archief)](https://web.archive.org/web/*/https://androidtamer.com/tamer4-release)
+* [AndroidTamer-project](https://github.com/TamerPlatform/TamerPlatform)
 * [.apk download website](https://www.appsapk.com/)
 * [Android studio](https://developer.android.com/studio/)
-* [Android lost](https://www.androidlost.com/)
+* [Find My Device (alternatief voor locatiebepaling met Android Lost)](https://android.com/find)
 
 ## Werkbladen
 * [App analyse](https://drive.google.com/file/d/1d5Kma8su6RqtsCniY-vuaDsUr8hbgBn2/view?usp=sharing)

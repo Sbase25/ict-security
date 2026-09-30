@@ -7,9 +7,9 @@ redirect_from:
   - /h3
 ---
 ## Bronnen
-* [http://wetten.overheid.nl](http://wetten.overheid.nl)
-* [http://www.ejure.nl](http://www.ejure.nl)
-* [http://www.iusmentis.com](http://www.iusmentis.com)
+* [Wetten.overheid.nl](https://wetten.overheid.nl)
+* [eJure (archief)](https://web.archive.org/web/*/https://www.ejure.nl)
+* [Iusmentis](https://www.iusmentis.com)
 
 ## Werkbladen
 * [Juridische vraagstukken](https://drive.google.com/file/d/19LW4aGMN29ta2ARJbinE1qR1yzyUNdXm/view?usp=sharing)

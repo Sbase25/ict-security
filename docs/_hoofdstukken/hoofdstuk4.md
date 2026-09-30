@@ -11,8 +11,8 @@ redirect_from:
 * [PayPal]({{ '/oefeningen/paypal.zip?raw=true' | relative_url }})
 
 ## Tools
-* [Real domain name](https://chrome.google.com/webstore/detail/real-domain-name/lhbkkikjboiebjeghokpefafaahnfoff)
-* [No Script](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
+* [Real domain name (archief)](https://web.archive.org/web/*/https://chrome.google.com/webstore/detail/real-domain-name/lhbkkikjboiebjeghokpefafaahnfoff)
+* [NoScript](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
 ## Videos
 * [Zembla - Identiteitsdiefstal](https://www.youtube.com/watch?v=uOsjg7pvZmw)

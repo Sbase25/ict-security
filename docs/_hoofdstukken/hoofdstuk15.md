@@ -7,7 +7,7 @@ redirect_from:
   - /h15
 ---
 ## Tools
-* [Nmap](http://nmap.org/download.html)
+* [Nmap](https://nmap.org/download.html)
 
 ## Werkbladen
 * [Beveiligde dataverbindingen](https://drive.google.com/file/d/1PN7g3QSUFbtBKVSfawUXreoncXN7mIt3/view?usp=sharing)
