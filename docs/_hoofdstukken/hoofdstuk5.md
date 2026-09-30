@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Bronnen
-* https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/index.cfm
+* [NSA security configuration guidance (archief)](https://web.archive.org/web/*/https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/operating-systems/index.cfm)
 * https://www.cisecurity.org/cis-benchmarks/
 
 ## Videos

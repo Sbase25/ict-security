@@ -10,7 +10,7 @@ redirect_from:
 * [bestandsversleuteling.txt]({{ '/oefeningen/bestandsversleuteling.txt?raw=true' | relative_url }})
 
 ## Tools
-* [Blowfish Advanced CS](https://sourceforge.net/projects/bfacs/)
+* [Blowfish Advanced CS (archief)](https://web.archive.org/web/20130729202233/http://sourceforge.net/projects/bfacs/)
 * [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
 
