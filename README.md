@@ -1,3 +1,4 @@
-# ICT-beveiliging
+# ICT Security
 
-Website met oefenbestanden, werkbladen, screencasts en tools.
+Dit is de website behorende bij de uitgave 'ICT Security' van Boris Sondagh.
+Deze website bevat onder andere bestanden, werkbladen, screencast en tools.

@@ -1,6 +1,6 @@
-title: ICT-beveiliging
+title: ICT Security
 description: >- # this means to ignore newlines until "baseurl:"
-  Website met oefenbestanden, werkbladen en tools voor ICT-beveiliging.
+  Methodewebsite voor het boek "ICT Security; praktische beveiliging van computersystemen, digitale media en netwerkverbindingen".
 github_username:  botris
 
 # Build settings

@@ -1,5 +1,6 @@
 ---
 layout: default
-title: ICT-beveiliging
+title: ICT Security
 ---
-Op deze website vind je oefenbestanden, werkbladen en tools voor ICT-beveiliging.
+Dit is de website behorende bij de uitgave 'ICT Security' van Boris Sondagh. \
+Deze website bevat onder andere bestanden, werkbladen en tools.
