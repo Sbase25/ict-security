@@ -15,5 +15,5 @@ redirect_from:
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
 
 ## Werkbladen
-* [Blowfish Advanced](https://drive.google.com/file/d/12ufLiFgPbeE_7pF3TN4GPXXzPD1eICgS/view?usp=sharing)
-* [VeraCrypt Container](https://drive.google.com/file/d/1bzTWedpmRdoEw8uJ4FIZ0x4Yzer9rsS4/view?usp=sharing)
+* [Blowfish Advanced]({{ '/assets/werkbladen/werkblad-h12-blowfish-advanced.docx' | relative_url }})
+* [VeraCrypt Container]({{ '/assets/werkbladen/werkblad-h12-veracrypt-container.docx' | relative_url }})

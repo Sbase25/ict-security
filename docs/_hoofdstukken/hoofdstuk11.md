@@ -14,4 +14,4 @@ redirect_from:
 Voor versie 2020 van ICT Security, gebruik Thunderbird 77 met Enigmail 2.2.4.
 
 ## Werkbladen
-* [Beveiligde Email](https://drive.google.com/file/d/1HQIWWSiX4ri1Q_RapLOiWTWZj6lIFRuX/view?usp=sharing)
+* [Beveiligde Email]({{ '/assets/werkbladen/werkblad-h11-beveiligde-email.docx' | relative_url }})

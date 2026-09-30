@@ -15,4 +15,4 @@ redirect_from:
 Volg de actuele downloadinstructies op de website van Exterro.
 
 ## Werkbladen
-* [Bestanden schonen](https://drive.google.com/file/d/1lhCE9bvp-0RyNY4xJVWvwo0fXJdSktcQ/view?usp=sharing)
+* [Bestanden schonen]({{ '/assets/werkbladen/werkblad-h14-bestanden-schonen.docx' | relative_url }})

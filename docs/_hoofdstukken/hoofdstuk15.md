@@ -10,5 +10,5 @@ redirect_from:
 * [Nmap](https://nmap.org/download.html)
 
 ## Werkbladen
-* [Beveiligde dataverbindingen](https://drive.google.com/file/d/1PN7g3QSUFbtBKVSfawUXreoncXN7mIt3/view?usp=sharing)
-* [Firewall](https://drive.google.com/file/d/1I-foiN9i40GEwdTEoLWgApGl5g8x8qGR/view?usp=sharing)
+* [Beveiligde dataverbindingen]({{ '/assets/werkbladen/werkblad-h15-beveiligde-dataverbinding.docx' | relative_url }})
+* [Firewall]({{ '/assets/werkbladen/werkblad-h15-firewall.doc' | relative_url }})
