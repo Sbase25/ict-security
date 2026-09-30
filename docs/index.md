@@ -1,5 +1,5 @@
 ---
 layout: default
-title: ICT Security
+title: ICT-beveiliging
 ---
 Op deze website vind je oefenbestanden, werkbladen en tools voor ICT-beveiliging.
