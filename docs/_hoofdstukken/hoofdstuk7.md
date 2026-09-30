@@ -28,6 +28,6 @@ b95351311be5bb96359e6568afda299c
 * [CrypTool](https://www.cryptool.org/en/)
 
 ## Werkbladen
-* [Hashwaarde](https://drive.google.com/file/d/19YTwt2B0_o5hidwP285l1MMmdRHrYCHn/view?usp=sharing)
-* [Rainbow Table](https://drive.google.com/file/d/1XAizFZxFYX0l2RqEKv4gcmVTeUDWPrhM/view?usp=sharing)
-* [Kerberos](https://drive.google.com/file/d/1-xWb8paT5gzQO9FFT7OpHIw8xXbvE_ly/view?usp=sharing)
+* [Hashwaarde]({{ '/assets/werkbladen/werkblad-h7-hashwaarden.docx' | relative_url }})
+* [Rainbow Table]({{ '/assets/werkbladen/werkblad-h7-rainbow-table.docx' | relative_url }})
+* [Kerberos]({{ '/assets/werkbladen/werkblad-h7-kerberos.docx' | relative_url }})

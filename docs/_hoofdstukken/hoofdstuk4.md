@@ -19,5 +19,5 @@ redirect_from:
 * [ KRO Profiel - Rop Gonggrijp ](https://www.youtube.com/watch?gl=BE&v=f2egqeRwq3c)
 
 ## Werkbladen
-* [Anti-Phishing Software](https://drive.google.com/file/d/137y8nIUEbfh8bS_izCNc3fev8ReETRV7/view?usp=sharing)
-* [Open Bronnen](https://drive.google.com/file/d/13K6OqlH1VoIdO-n_T-a_f25eJ6FTOz1f/view?usp=sharing)
+* [Anti-Phishing Software]({{ '/assets/werkbladen/werkblad-h4-anti-phishing-software.docx' | relative_url }})
+* [Open Bronnen]({{ '/assets/werkbladen/werkblad-h4-open-bronnen.docx' | relative_url }})

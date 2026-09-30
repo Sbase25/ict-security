@@ -14,5 +14,5 @@ redirect_from:
 * [FileZilla Server](https://filezilla-project.org/download.php?type=server)
 
 ## Werkbladen
-* [Beveiligd internet](https://drive.google.com/file/d/1swaVE-31h8t_TUz-5987l3VSBHOuqDm-/view?usp=sharing)
-* [Beveiligd FTP](https://drive.google.com/file/d/1tjApTDwV1c55ttEt0eqiVokg6PdWbvp2/view?usp=sharing)
+* [Beveiligd internet]({{ '/assets/werkbladen/werkblad-h10-beveiligd-internet.docx' | relative_url }})
+* [Beveiligd FTP]({{ '/assets/werkbladen/werkblad-h10-beveiligd-ftp.docx' | relative_url }})

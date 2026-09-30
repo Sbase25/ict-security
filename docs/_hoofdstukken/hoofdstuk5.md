@@ -15,5 +15,5 @@ redirect_from:
 * [GOVCERT - Het ontstaan van internet en de bedreigingen](https://youtu.be/___7sLkq8YM)
 
 ## Werkbladen
-* [Basis Computerbeveiliging](https://drive.google.com/file/d/17jibIRcV-FM8QogHMchvikWkT7Ub2EDu/view?usp=sharing)
-* [System hardening](https://drive.google.com/file/d/1FTBp1exordLy2TzNtYOMN2E9SkuOSVlA/view?usp=sharing)
+* [Basis Computerbeveiliging]({{ '/assets/werkbladen/werkblad-h5-basis-computerbeveiliging.docx' | relative_url }})
+* [System hardening]({{ '/assets/werkbladen/werkblad-h5-system-hardening.docx' | relative_url }})

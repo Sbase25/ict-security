@@ -17,5 +17,5 @@ redirect_from:
 * [History of the Internet](https://youtu.be/9hIQjrMHTv4)
 
 ## Werkbladen
-* [MSCT](https://drive.google.com/file/d/1XDHj8kMxMlj5q_UdVKvvctk23vrHTD-G/view?usp=sharing)
-* [Wireshark](https://drive.google.com/file/d/1FypJ6ArtY7RDKZdv8EvVQo8lAbNI6RxZ/view?usp=sharing)
+* [MSCT]({{ '/assets/werkbladen/werkblad-h6-msct.docx' | relative_url }})
+* [Wireshark]({{ '/assets/werkbladen/werkblad-h6-wireshark.docx' | relative_url }})
